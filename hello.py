@@ -1,3 +1,4 @@
 
 for i in range  (10): 
-	print ("hello, World") 
+	if i%2 ==():	
+		print ("hello, World") 
